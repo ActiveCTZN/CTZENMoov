@@ -29,4 +29,3 @@ To Be Completed ...
 
 ## Reference Methodology.   
 Cf https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/1_Activities/A0/ReadMe_EN.md
-Cf https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/1_Activities/A0/ReadMe_FR.md
