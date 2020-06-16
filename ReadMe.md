@@ -101,5 +101,5 @@ All documents that can NOT fit the GitHub format are stored here :
 
 ## Methodology
 The methodology used for designing this repository is described here :
-> https://github.com/iPlumb3r/BizApp-Spec-Methodo/tree/CTZNMuv
+> https://github.com/iPlumb3r/BizApp-Spec-Methodo
 
