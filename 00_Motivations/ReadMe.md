@@ -1,7 +1,7 @@
 # Motivations 
 
 According to <a href="https://github.com/ActiveCTZN/CTZNMuv-/blob/master/00_Motivations/OurStory.md">Our Story</a> ...   
-... here is the __"Motivation Map"__ for the CTZNMuv- Inititive.
+... here is the __"Motivation Map"__ for the CTZNMuv- Initiative.
 
 ## Business Finalities
 ### Enabling collaboration on a global scale to a broader audience. 
