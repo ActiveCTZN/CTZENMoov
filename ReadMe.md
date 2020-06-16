@@ -99,7 +99,7 @@ This is the root of the __Business Need Specification__ for the _"CTZNMuv-" init
 All documents that can NOT fit the GitHub format are stored here :    
 > https://drive.google.com/drive/folders/1BQ21JhWqCmXpzsne9EmHYWRPzHznQakm
 
-##Methodology
+## Methodology
 The methodology used for designing this repository is described here :
 > https://github.com/iPlumb3r/BizApp-Spec-Methodo/tree/CTZNMuv
 
